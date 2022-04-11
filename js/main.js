@@ -210,8 +210,8 @@ document.addEventListener('DOMContentLoaded', () => {
       if (row.every(index => squares[index].classList.contains('block2'))) {
         score += 10
         lines += 1
-        scoreDisplay.innerHTML = score;
-        linesDisplay.innerHTML = lines
+        scoreDisplay.innerHTML = 'Score Display: ' + score;
+        linesDisplay.innerHTML = 'Lines Display: ' + lines
         row.forEach(index => {
           squares[index].classList.remove('block2') || squares[index].classList.remove('block')
         })
