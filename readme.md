@@ -2,8 +2,8 @@
 
 ### Made with JavaScript 🌟
 
-- <a href="https://www.youtube.com/watch?v=lhNdUVh3qCc&t=4931s">Project made thanks to FreeCodeCamp tutorial</a>
-- <a href="https://www.freecodecamp.org/espanol/news/40-proyectos-de-javascript-para-principiantes-ideas-faciles-para-empezar-a-codificar-en-js/">Link more projects FreeCodeCamp</a>
+- <a href="https://www.youtube.com/watch?v=lhNdUVh3qCc&t=4931s">Link Video -> Project made thanks to FreeCodeCamp tutorial.</a>
+- <a href="https://www.freecodecamp.org/espanol/news/40-proyectos-de-javascript-para-principiantes-ideas-faciles-para-empezar-a-codificar-en-js/">Link to the tutorial of this project and more.</a>
 
 #### Description
 
